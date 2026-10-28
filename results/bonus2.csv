@@ -1,0 +1,7 @@
+method,model,quality,bitrate,enc_time,dec_time,mem_cpu_MB,mem_vram_MB
+compressai,cheng2020_attn,2,0.2867,1.15,2.94,1481.71,0.00
+compressai,cheng2020_attn,4,0.7844,1.76,4.00,3082.83,0.00
+compressai,cheng2020_attn,6,1.4250,1.84,3.95,4625.71,0.00
+compressai,bmshj2018_factorized,2,0.2554,0.12,0.13,4781.75,0.00
+compressai,bmshj2018_factorized,4,0.6459,0.10,0.13,4789.62,0.00
+compressai,bmshj2018_factorized,6,1.5339,0.23,0.26,4921.92,0.00
